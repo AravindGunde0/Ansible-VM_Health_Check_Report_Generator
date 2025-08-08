@@ -10,4 +10,4 @@ keyed_groups:
   - key: tags.Name
     prefix: name
   - key: tags.Environment
-    prefix: env    
+    prefix: env
